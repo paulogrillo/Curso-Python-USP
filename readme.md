@@ -1,7 +1,5 @@
 >## Python - USP
 
-#### Curso introdução a ciência da computação
-
 - Introdução a Computação
 - Introdução ao Python
 - If - Else
@@ -12,5 +10,5 @@
 - Listas
 - Mais sobre listas
 
-##### Aulas de Introdução à Computação em Python
-[Fonte - USP ](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
+>##### Aulas de Introdução à Computação em Python
+>[Fonte - USP ](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
