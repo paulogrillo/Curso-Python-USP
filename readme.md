@@ -12,4 +12,4 @@
 - Listas
 - Mais sobre listas
 
-
+[Fonte - USP ](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
