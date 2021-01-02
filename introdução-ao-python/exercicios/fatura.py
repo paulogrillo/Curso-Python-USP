@@ -22,7 +22,15 @@
 # Digite o dia de vencimento: 9
 # Digite o mês de vencimento: Janeiro
 # Digite o valor da fatura: 350,00
-# Saída de Dados:
 
-# 1
-# 2
+# Saída de Dados:
+# 1 Olá, Fulano de Tal
+# 2 A sua fatura com vencimento em 9 de Janeiro no valor de R$ 350,00 está fechada.
+
+nome = input("Digite o nome do cliente:")
+diaVencimento = input("Digite o dia de vencimento:")
+mesVencimento = input("Digite o mês de vencimento:")
+valor = input("Digite o valor da fatura:")
+
+print ("Olá, ", nome)
+print ("A sua fatura com vencimento em", diaVencimento, "de", mesVencimento, "no valor de R$", valor, "está fechada.")
