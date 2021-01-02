@@ -1,3 +1,0 @@
-saudacao = 'Oi'
-
-print(saudacao)
