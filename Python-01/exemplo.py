@@ -1,0 +1,3 @@
+saudacao = 'Oi'
+
+print(saudacao)
