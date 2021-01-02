@@ -1,4 +1,5 @@
-# Curso Introdução a ciência da computação com Python - USP
+## Python - USP
+#### Curso introdução a ciência da computação
 
 - Introdução a Computação
 - Introdução ao Python
@@ -9,3 +10,5 @@
 - Repetições encaixadas
 - Listas
 - Mais sobre listas
+
+
