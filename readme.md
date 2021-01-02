@@ -1,4 +1,4 @@
->## Python - USP
+>## Curso de Python Part 1 - USP
 
 - Introdução a Computação
 - Introdução ao Python
@@ -11,4 +11,4 @@
 - Mais sobre listas
 
 >##### Aulas de Introdução à Computação em Python
->[Fonte - USP ](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
+>[ USP ](https://panda.ime.usp.br/aulasPython/static/aulasPython/index.html)
