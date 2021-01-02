@@ -1,5 +1,6 @@
 >## Python - USP
->#### Curso introdução a ciência da computação
+
+#### Curso introdução a ciência da computação
 
 - Introdução a Computação
 - Introdução ao Python
