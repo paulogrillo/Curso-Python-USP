@@ -14,11 +14,12 @@
 # Quando você usa o comando print para imprimir mais de uma coisa, ele inclui automaticamente espaços entre os argumentos impressos. Cuidado para não incluir espaços demais na sua resposta! O corretor perceberá e tirará pontos
 
 
-n1 = int(input("Digite a primeira nota: "))
-n2 = int(input("Digite a segunda nota: "))
-n3 = int(input("Digite a terceira nota: "))
-n4 = int(input("Digite a quarta nota: "))
+n1 = int(input("Digite a primeira nota:"))
+n2 = int(input("Digite a segunda nota:"))
+n3 = int(input("Digite a terceira nota:"))
+n4 = int(input("Digite a quarta nota:"))
 
-m = n1 + n2 + n3 + n4 / 4
+soma = n1+n2+n3+n4
+media = soma / 4
 
-print("A média aritmética é: ", m)
+print("A média aritmética é", media)

@@ -19,11 +19,11 @@
 ############################################################################
 ############################## [Opção escolhida] #############################
 ############################################################################
-l = int(input("Digite o valor correspondente ao lado de um quadrado:"))
-x = l * 4
-y = l * l
-print ("area: ", x)
-print ("perimetro: ", y)
+l=a = int(input("Digite o valor correspondente ao lado de um quadrado:"))
+perimetro = l * 4
+area = l * l
+print ("perimetro:", perimetro, "-", "area:", area)
+
 
 # Opção 1
 # lquadrado = int(raw_input("Digite o valor correspondente ao lado de um quadrado: "))
