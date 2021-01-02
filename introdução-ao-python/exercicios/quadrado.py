@@ -22,7 +22,7 @@
 l=a = int(input("Digite o valor correspondente ao lado de um quadrado:"))
 perimetro = l * 4
 area = l * l
-print ("perimetro:", perimetro, "-", "area:", area)
+print ("perímetro:", perimetro, "-", "área:", area)
 
 
 # Opção 1
