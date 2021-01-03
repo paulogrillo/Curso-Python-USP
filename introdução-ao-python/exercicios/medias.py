@@ -1,7 +1,6 @@
 # Exercício 2
 # Faça um programa em Python que receba quatro notas, calcule e imprima a média aritmética. Observe o exemplo abaixo:
-
-#Exemplo:
+# Exemplo:
 # Entrada de Dados:
 # Digite a primeira nota: 4
 # Digite a segunda nota: 5
