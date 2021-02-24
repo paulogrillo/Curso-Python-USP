@@ -4,9 +4,8 @@
 
  #se o número for divisível por 3. Caso contrário, imprima o mesmo número que foi dado na entrada.
 
-numero = int(input('Digite um inteiro: '))
-
-if not (numero%3) :
-    print("É múltiplo de 3")
+numero = int(input('Digite um número: '))
+if (numero%3) == 0:
+  print("Fizz")
 else:
-    print("Não é múltiplo de 3")
+  print(numero)

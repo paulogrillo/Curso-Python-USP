@@ -5,10 +5,8 @@
 
 #na saída se o número for divisível por 3 e por 5. Caso contrário, imprima o mesmo número que foi dado na entrada.
 
-
-numero = int(input('Digite um inteiro: '))
-
-if not (numero%5&3) :
-    print("É múltiplo de 3 e 5")
+numero = int(input('Digite um número: '))
+if((numero%5) == 0) and ((numero%3) == 0):
+  print("FizzBuzz")
 else:
-    print("Não é múltiplo de 3 e 5")
+  print(numero, 'x')

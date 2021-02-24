@@ -5,9 +5,9 @@
 
 #se o número for divisível por 5. Caso contrário, imprima o mesmo número que foi dado na entrada.
 
-numero = int(input('Digite um inteiro: '))
 
-if not (numero%5) :
-    print("É múltiplo de 5")
+numero = int(input('Digite um número: '))
+if (numero%5) == 0:
+  print("Buzz")
 else:
-    print("Não é múltiplo de 5")
+  print(numero)
